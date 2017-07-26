@@ -1,0 +1,6 @@
+[package]
+name = "rusty-linked-list"
+version = "0.1.0"
+authors = ["brianarpie <brian.arpie@gmail.com>"]
+
+[dependencies]
